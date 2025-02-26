@@ -17,3 +17,4 @@ This course provides knowledge and skills related to advanced multimedia communi
 
 ## 📬 Contact
 - **💌 Email:** 1410hhd@gmail.com
+- **🔗 LinkedIn:** https://www.linkedin.com/in/hohduong/

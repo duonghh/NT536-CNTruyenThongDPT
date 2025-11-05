@@ -6,7 +6,8 @@
 - **🎓 Course Type:** Specialized course in Computer Networks and Data Communications (UIT)
 
 ## 📜 Course Description
-This course provides knowledge and skills related to advanced multimedia communication technologies for data and signals such as audio and video. It covers widely used communication applications such as IPTV, VoIP, and digital multimedia.  
+This course provides knowledge and skills related to advanced multimedia communication technologies for data and signals such as audio and video. It covers widely used communication applications such as IPTV, VoIP, and digital multimedia. 
+- **🔗 Link video demo of Project 2 (Computer Vision): https://youtu.be/qMcsyuQpIpc
 
 ### 🔍 **Key Topics**
 - 🎵 Audio and Video Communication Technologies  
@@ -17,4 +18,4 @@ This course provides knowledge and skills related to advanced multimedia communi
 
 ## 📬 Contact
 - **💌 Email:** 1410hhd@gmail.com
-- **🔗 LinkedIn:** https://www.linkedin.com/in/hohduong/
+
